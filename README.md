@@ -1,4 +1,4 @@
-# Python learning journey 🐍
+# Python learning journey 
 This GitHub repository is where I upload everything I learn in Python on a day-by-day basis. From basic concepts to projects, problem-solving, and experiments, every commit reflects my progress and consistency.
 
 Here you'll find:
